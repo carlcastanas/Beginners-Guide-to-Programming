@@ -128,7 +128,15 @@ Join online communities and forums where you can ask questions, share knowledge,
 14. **Kuya Dev**
     - Facebook: [Kuya Dev](https://www.facebook.com/KuyaDevDotCom)
 
+15. **Christian Darvin**
+    - TikTok: [@christiandarvs](https://www.tiktok.com/@christiandarvs)
 
+16. **Cat Dev**
+    - TikTok: [@catdev21](https://www.tiktok.com/@catdev21/)
+
+17. **John Dev**
+    - TikTok: [@iamjohn.devx](https://www.tiktok.com/@iamjohn.devx)
+         
 ### Connect on GitHub:
 Join the GitHub community to connect with other developers, collaborate on projects, and contribute to open source:
 - [GitHub](https://github.com/)
